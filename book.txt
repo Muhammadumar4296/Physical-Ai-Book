@@ -1,0 +1,58 @@
+================================================================
+     PHYSICAL AI & HUMANOID ROBOTICS – The Interactive Textbook
+                     (Hackathon Version – 2025)
+================================================================
+
+INTRODUCTION
+Physical AI represents the next frontier of artificial intelligence: intelligence that is not confined to servers or screens, but fully embodied in the real world. Unlike traditional AI that processes text or images, Physical AI must perceive, act, and learn through a physical body in dynamic, unpredictable environments.  
+Humanoid robots — machines with human-like form factors — are the ultimate testbed for Physical AI. Companies like Tesla (Optimus), Figure, Boston Dynamics (Atlas), Agility Robotics, and 1X are racing to deploy general-purpose humanoids in homes, factories, and hospitals by 2030.  
+This interactive book is the world’s first living textbook on the subject. Highlight any paragraph, ask questions, and the AI assistant will answer using only the selected text — guaranteeing 100% accuracy and zero hallucination.
+
+================================================================
+CHAPTER 1 – Foundations of Physical AI & Embodied Intelligence
+1.1 What is Physical AI and why it is harder than LLM scaling  
+1.2 Embodied intelligence vs disembodied intelligence  
+1.3 The Sim-to-Real gap and Domain Randomization  
+1.4 Benchmarks: ManiSkill, RoboSuite, and real-world manipulation suites  
+1.5 The rise of foundation models for robot learning (RT-X, OpenVLA, etc.)
+
+================================================================
+CHAPTER 2 – Humanoid Robot Mechanical Design & Actuation
+2.1 Why humanoid form factor is the hardest (and most valuable)  
+2.2 Electric vs hydraulic vs quasi-direct drive actuators  
+2.3 Torque-density revolution: T-motor, Unitree, and new actuator startups  
+2.4 Kinematic structure: 28–40 DoF, spine designs, and hand complexity  
+2.5 Materials and weight distribution for dynamic balance
+
+================================================================
+CHAPTER 3 – Sensing & Perception for Humanoids
+3.1 Vision-first philosophy: RGB-D cameras, event cameras, tactile arrays  
+3.2 Real-time depth sensing: Intel RealSense, Azure Kinect, Ouster LiDAR  
+3.3 Proprioception and force-torque sensing in feet and wrists  
+3.4 Multimodal sensor fusion pipelines  
+3.5 Perception for manipulation: Grasp candidate generation and affordance learning
+
+================================================================
+CHAPTER 4 – Locomotion, Balance & Whole-Body Control
+4.1 The zero-moment point (ZMP) vs model-predictive control (MPC) debate  
+4.2 Reinforcement Learning for bipedal locomotion (Dreamer, PPO, SAC)  
+4.3 Capture point, divergent component of motion, and centroidal dynamics  
+4.4 Whole-body operational space control and quadratic programming  
+4.5 From walking to running: Atlas DRC to new Atlas (2024) progress
+
+================================================================
+CHAPTER 5 – Learning from Demonstration, RL & Future Directions
+5.1 Imitation learning pipelines: diffusion policies, ACT, and Diffusion Policy  
+5.2 One-shot and few-shot imitation with vision-language-action models  
+5.3 Scaling laws for robot data (Gato → RT-2 → RT-X → Octo)  
+5.4 Internet-scale pre-training for robotics  
+5.5 Path to general-purpose household humanoids by 2030
+
+================================================================
+CONCLUSION & FUTURE OUTLOOK
+We are witnessing the birth of a new species of machine — one that will walk, work, and eventually live among us. The fusion of large-scale data, transformer architectures, and high-performance hardware has finally made general-purpose humanoid robots economically and technically feasible.  
+The next five years will decide which companies and countries lead the Physical AI revolution. The textbook you just read is not static — it will keep evolving as new breakthroughs happen. Highlight any section anytime and ask questions. The future is already here; it just walks on two legs.
+
+================================================================
+© 2025 – Built live at this hackathon
+Ask the AI anything about the text you selected!
