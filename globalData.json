@@ -1,0 +1,71 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "chapter1-foundations",
+              "path": "/docs/chapter1-foundations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter2-mechanical-design",
+              "path": "/docs/chapter2-mechanical-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter3-sensing-perception",
+              "path": "/docs/chapter3-sensing-perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter4-locomotion-control",
+              "path": "/docs/chapter4-locomotion-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter5-learning-future",
+              "path": "/docs/chapter5-learning-future",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conclusion",
+              "path": "/docs/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
